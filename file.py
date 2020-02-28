@@ -11,6 +11,12 @@ import random
 import math
 import time
 
+def fun(a):
+  i = 10
+  return i + a       # Noncompliant
+  i += 1             # this is never executed
+
+
 class BadInputError(Exception):
     pass
 
