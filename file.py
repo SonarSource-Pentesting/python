@@ -1,5 +1,4 @@
 #
-# coucou
 #
 # Got this from the following link, I need some example Python code to test an automated code review tool 
 # UNO (TEXT-BASED) (PYTHON RECIPE)
