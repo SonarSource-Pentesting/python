@@ -26,6 +26,9 @@ class CustomHandler(Handler):  # Sensitive
 class CustomFilter(Filter):  # Sensitive
     pass
 
+class CustomFilter(Filter):  # Sensitive
+    pass
+
 
 def update_config(path, config):
     fileConfig(path)  # Sensitive
